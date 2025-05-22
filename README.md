@@ -1,2 +1,2 @@
-# cs524
-Final project dataset
+# cs524 Introduction to Optimization
+Course final project
